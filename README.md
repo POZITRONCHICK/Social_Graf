@@ -56,3 +56,6 @@
 		net_model.from_nx(graf_model)
 
 		net_model.show('test_set.html', notebook=False)
+
+6) Получаем следующий результат:
+![screen](picture/friends.png)
